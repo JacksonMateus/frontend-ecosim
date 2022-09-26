@@ -49,6 +49,7 @@ export const SimulationRow = styled.div`
 	margin: 0 -15px -15px -15px;
 	flex-wrap: wrap;
 	align-items: center;
+	margin-bottom: 1px;
 
 `;
 
